@@ -15,7 +15,7 @@ Start Microservice A:
 dotnet run --project .\MicroserviceA\MicroserviceA.csproj
 ```
 
-Start Microservice A:
+Start Microservice B:
 ```powershell
 dotnet run --project .\MicroserviceB\MicroserviceB.csproj
 ```
